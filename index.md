@@ -23,19 +23,19 @@
 - This project aims to figure out the general opinion on NEP 2020 and which may be used to make better strategies and plan for the future.
 - Trained and implemented Bernoulli Naive Bayes, XGBoost , Logistic Regression and Decision Tree for developing the model and concluded Decision Tree works better with an accuracy of 91%.
 
-![](/images/sanep.jpg)
+![](./images/sanep.jpg)
 
 ### [Real-time Human Object Detection](https://github.com/SaijyotiTripathy/Real-time-Human-Object-Detection)
 - Real-time human object detection system implemented on input videos and live video streams can be used for smart security surveillance.
 - This project uses pre-trained yolov3 models taken from official yolo paper which was released in 2018.
 
-![](/images/human%20detection.jpg)
+![](./images/human%20detection.jpg)
 
 ### [Heart Attack Analysis and Prediction](https://github.com/SaijyotiTripathy/Heart-Attack-Analysis-and-Prediction)
 - Trained and implemented Logistic Regression for developing the predictive model.
 - Model is able to predict heart attack with 81.5% accuracy.
 
-![](/images/heart%20attack.jpg)
+![](./images/heart%20attack.jpg)
 
 ## Skills
 - **Languages:** C, Python, Java
